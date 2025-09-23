@@ -14,7 +14,7 @@ This project is developed as part of **FC421 Applied Cryptography – Fall 2025*
 
 ## ⚠ Disclaimer
 - This project is for **educational purposes only** under the FC421 Applied Cryptography course.
-- The character names *Eddie, Venom,* are used as **fictional placeholders** to represent the following client and server roles.
+- The character names *Eddie, Venom, Knull* are used as **fictional placeholders** to represent the following client and server roles.
 - They're inspired by standard cryptography teaching conventions and popular culture references.
 - The use of these names is strictly for **academic demonstration only** and for **non-commercial** purposes.
 - I do not own or claim any rights to Marvel characters or other fictional elements.
