@@ -13,8 +13,12 @@ This project is developed as part of **FC421 Applied Cryptography – Fall 2025*
 ---
 ## 📝 MITM Flow Diagram
 A simple diagram that has been used in the project:
-[](https://github.com/Shouq-doc0x42/Crypto-Project/blob/main/docs/Screenshot%202025-09-23%20220154.png?raw=true)
 
+<div align="center">
+  
+![Alt text](https://github.com/Shouq-doc0x42/Crypto-Project/blob/main/docs/MITM%20Diagram.png/?raw=true)
+
+</div>
 
 
 
