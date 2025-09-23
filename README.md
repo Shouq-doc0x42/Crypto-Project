@@ -11,6 +11,14 @@ It covers the following components:
 This project is developed as part of **FC421 Applied Cryptography – Fall 2025** at the UPM AKA University of Prince Mugrin.
 
 ---
+## 📝 MITM Flow Diagram
+A simple diagram that has been used in the project:
+[](https://github.com/Shouq-doc0x42/Crypto-Project/blob/main/docs/Screenshot%202025-09-23%20220154.png?raw=true)
+
+
+
+
+---
 
 ## ⚠ Disclaimer
 - This project is for **educational purposes only** under the FC421 Applied Cryptography course.
@@ -43,9 +51,6 @@ The people who contributed in the project:
 |Network       | LAN or Localhost   | LAN or bridge adapter with wireshark capture |
 
 </div>
-
-
-
 
 
 ## Software Reauirements
