@@ -30,6 +30,26 @@ The people who contributed in the project:
 ---
 
 ## 🛠 Tools & Requirements
+
+## Hardware Requirements
+
+<div align="center">
+  
+| Components      | Minimum     | Recommended
+|-------:|:-----------------------:|:------------
+| Processor       | Intel Core i3 or equivilent | Intel Core i5/i7 or equivalent |
+| Memory (RAM)    | 4 - 8 GB         | 16 - 32 GB |
+| Storage      | 3 GB free space    | 6 GB |
+|Network       | LAN or Localhost   | LAN or bridge adapter with wireshark capture |
+
+</div>
+
+
+
+
+
+## Software Reauirements
+
 - **Python 3.x**.
 - **PyCryptodome** → AES, RSA, hashing.
 - **socket / hashlib** → networking + hash functions.
