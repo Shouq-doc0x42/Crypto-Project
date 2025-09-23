@@ -23,9 +23,9 @@ This project is developed as part of **FC421 Applied Cryptography – Fall 2025*
 
 ## 👥 Team Members
 The people who contributed in the project:
-- **Shouq ** – Project Manager  
-- **Lama ** – TBA
-- **Omnia ** – TBA  
+- **Shouq** – Project Manager  
+- **Lama** – TBA
+- **Omnia** – TBA  
 
 ---
 
