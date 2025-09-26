@@ -1,5 +1,14 @@
 # MITM Attack on Diffie–Hellman (FC421 Applied Cryptography – Fall 2025)
 
+<div align="center">
+  
+[![License: MIT](https://img.shields.io/badge/License-MIT-8e44ad?style=for-the-badge&logo=ghost)](https://opensource.org/licenses/MIT)
+![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+![Repo Size](https://img.shields.io/github/repo-size/Shouq-doc0x42/Crypto-Project?style=for-the-badge)
+![Platform](https://img.shields.io/badge/platform-linux%20%7C%20windows-lightgrey?style=for-the-badge&logo=linux)
+
+</div>
+
 ## 📌 Project Overview
 This project Illustrate the vulnerability of the **Diffie–Hellman (DH) key exchange** to a **Man-in-the-Middle (MITM) attack** when authentication element is missing.
 It covers the following components:
@@ -26,7 +35,7 @@ A simple diagram that has been used in the project:
 
 ## ⚠ Disclaimer
 - This project is for **educational purposes only** under the FC421 Applied Cryptography course.
-- The character names *Eddie, Venom, Knull* are used as **fictional placeholders** to represent the following client and server roles.
+- The character names *Eddie, Venom, Knull (image)* are used as **fictional placeholders** to represent the following client and server roles.
 - They're inspired by standard cryptography teaching conventions and popular culture references.
 - The use of these names is strictly for **academic demonstration only** and for **non-commercial** purposes.
 - I do not own or claim any rights to Marvel characters or other fictional elements.
@@ -75,3 +84,4 @@ python -m venv venv
 venv\Scripts\activate        # (Windows)
 source venv/bin/activate     # (Linux/macOS)
 pip install -r requirements.txt
+
